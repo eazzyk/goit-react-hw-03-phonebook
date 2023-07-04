@@ -1,0 +1,21 @@
+.contactList {
+  list-style: none;
+  width: 320px;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.contactItem {
+  background-color: aliceblue;
+  display: flex;
+  padding: 12px;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.contactDeleteBtn {
+  border: none;
+  border-radius: 10%;
+  background-color: rgb(105, 5, 5);
+  color: rgb(255, 255, 255);
+}

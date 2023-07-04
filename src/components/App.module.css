@@ -1,0 +1,12 @@
+.title {
+  text-align: center;
+}
+
+.container {
+  width: 480px;
+  margin: 0 auto;
+
+  padding: 20px;
+  background-color: skyblue;
+  border-radius: 12px;
+}
